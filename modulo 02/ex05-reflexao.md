@@ -1,0 +1,1 @@
+Dizemos que o computador nao erra porque ele apenas executa as instrucoes que recebeu. Quando um resultado esta errado, geralmente o problema esta no algoritmo, nos dados ou nas instrucoes escritas por quem programou. Por isso, e importante entender o problema, planejar a solucao e testar o programa com cuidado.
